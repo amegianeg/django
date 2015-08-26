@@ -470,6 +470,11 @@ Postgres
 postgresql
 pq
 pre
+<<<<<<< HEAD
+=======
+precisions
+precomputation
+>>>>>>> 5aa5503... Fixed #24743, #24745 -- Optimized migration plan handling
 preconfigured
 prefetch
 prefetched
